@@ -293,7 +293,7 @@ void LinearPos(int POS) // MM
 	// Serial.println(Platform_step.currentPosition());
 }
 
-// Homing Linear module position hhh
+// Homing Linear module position
 void LinearHome()
 {
 	Linear_homed = 0;
